@@ -44,6 +44,8 @@ So, the procedure should be
 To enable the ability to insert the locking pins in any position there is a setting, "DisableElevationPositionCheck".
 This settings in true makes that the locking pins does not check the elevation position, so it could be inserted in any position.
 **Be careful using this setting, because the locking pin could be damaged if the hole in the telescope is not aligned with
-the locking pin when the locking pin is inserted**
+the locking pin when the locking pin is inserted**.
 
 ![Locking pin settings](/media/EZCH2YBjJC.png)
+
+**This setting should be always False if it is not necessary**
