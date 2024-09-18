@@ -1,4 +1,4 @@
-# Locking Pins in Balancing
+# Locking Pins Without Home
 
 | **Requested by:** | **AURA** |
 |-------------------|----------|
@@ -8,7 +8,7 @@
 
 ## Index
 
-- [Locking Pins in Balancing](#locking-pins-in-balancing)
+- [Locking Pins Without Home](#locking-pins-without-home)
   - [Index](#index)
   - [Introduction](#introduction)
   - [Move elevation](#move-elevation)
@@ -46,6 +46,6 @@ This settings in true makes that the locking pins does not check the elevation p
 **Be careful using this setting, because the locking pin could be damaged if the hole in the telescope is not aligned with
 the locking pin when the locking pin is inserted**.
 
-![Locking pin settings](/media/EZCH2YBjJC.png)
+![Locking pin settings](media/EZCH2YBjJC.png)
 
-**This setting should be always False if it is not necessary**
+> ❗ **This setting should always be *False* if it is not necessary** ❗
